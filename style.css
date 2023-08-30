@@ -89,7 +89,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background-image: url("/btman.png") ;
+    background-image: url("btman.png") ;
     
     background-size:cover ;
     background-position: center;
